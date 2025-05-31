@@ -1,0 +1,11 @@
+{
+  "name": "808 Monster V2",
+  "version": "1.0.0",
+  "type": "sampler",
+  "created": "2025-05-31T21:58:04.463Z",
+  "author": "Mr. Mig",
+  "description": "Professional 808 sampler plugin created with Plugin Studio",
+  "website": "https://maxxbeats.com",
+  "repository": "https://github.com/miggsyballz/mpf-dev",
+  "license": "MIT"
+}

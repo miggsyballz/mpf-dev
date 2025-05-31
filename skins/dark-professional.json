@@ -1,0 +1,25 @@
+{
+  "name": "Dark Professional",
+  "version": "1.0.0",
+  "author": "Mr. Mig",
+  "colors": {
+    "primary": "#8B5CF6",
+    "secondary": "#3B82F6",
+    "background": "#1F2937",
+    "surface": "#374151",
+    "text": "#F9FAFB",
+    "accent": "#10B981"
+  },
+  "components": {
+    "knob": {
+      "style": "modern",
+      "size": "medium",
+      "color": "primary"
+    },
+    "slider": {
+      "style": "minimal",
+      "orientation": "vertical",
+      "color": "secondary"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "808-monster-v2",
+  "version": "1.0.0",
+  "description": "Professional 808 sampler plugin created with Plugin Studio",
+  "main": "plugin.config.json",
+  "scripts": {
+    "build": "echo 'Build with HISE or your preferred plugin framework'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "audio",
+    "plugin",
+    "sampler",
+    "808",
+    "music-production",
+    "vst",
+    "au"
+  ],
+  "author": "Mr. Mig",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miggsyballz/mpf-dev.git"
+  },
+  "homepage": "https://maxxbeats.com"
+}

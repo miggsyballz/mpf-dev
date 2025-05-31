@@ -1,0 +1,46 @@
+# Plugin Studio generated files
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
+
+# Audio files (too large for git)
+samples/audio/
+*.wav
+*.aiff
+*.mp3
+*.flac
+
+# Build artifacts
+build/
+dist/
+*.dll
+*.vst3
+*.component
+*.aax
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if using Node.js tools)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Plugin Studio specific
+.plugin-studio/
+temp/
+cache/
